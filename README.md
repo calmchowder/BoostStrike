@@ -8,6 +8,8 @@ I created this game in approximately 18 days for the CS 590G Game Programming cl
 
 [Linux Link](https://www.dropbox.com/s/mc281itdxt7c972/boost_strike_linux.zip?dl=0)
 
+[Full Unity Project Files](https://www.dropbox.com/s/ddefl2o2jalf6x0/Final%20Project.zip?dl=0)
+
 ## Screenshots
 ![Main Menu](https://i.imgur.com/rxS1gKz.png)
 ![Game 1](https://i.imgur.com/TU8hDMo.jpg)
