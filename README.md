@@ -3,7 +3,9 @@ I created this game in approximately 18 days for the CS 590G Game Programming cl
 
 ## Download Links
 [Windows Link](https://www.dropbox.com/s/hayor0tw7j76h9j/boost_strike.zip?dl=0)
+
 [Mac Link](https://www.dropbox.com/s/hayor0tw7j76h9j/boost_strike.zip?dl=0)
+
 [Linux Link](https://www.dropbox.com/s/mc281itdxt7c972/boost_strike_linux.zip?dl=0)
 
 ## Screenshots
