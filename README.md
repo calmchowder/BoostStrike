@@ -1,4 +1,4 @@
-# BoostStrike
+# Boost Strike
 I created this game in approximately 18 days for the CS 590G Game Programming class. 
 
 ## Download Links
